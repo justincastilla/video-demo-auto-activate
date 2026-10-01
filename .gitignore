@@ -1,0 +1,6 @@
+# terminal-demo-video intermediates and renders
+build/
+*.mp4
+voice/
+__pycache__/
+.DS_Store
