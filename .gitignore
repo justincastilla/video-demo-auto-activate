@@ -4,3 +4,4 @@ build/
 voice/
 __pycache__/
 .DS_Store
+narration.md
